@@ -5,6 +5,16 @@ Sur la touche VK_OEM_7 :
 - le symbole 'SUPERSCRIPT TWO' (U+00B2) qui était en position de base est transféré en position ag.
 - le symbole 'GRAVE ACCENT' (U+0060) prend la position de base
 
+V1.5
+- Ajout de e-dans-l’o 
+  - o + AG      : U+0153
+  - o + AH + AG : U+0152
+  
+- Modification
+  - ESPACE + SH      : SP
+  - ESPACE + AG      : NB SP   : espace insécable
+  - ESPACE + AG + SH : NNB SP  : espace fin insécable
+
 V1.4 Ajout des flèches avec la touche morte AG+F
 - 0061	2190	// a -> ←
 - 0062	27F9	// b -> ⟹
