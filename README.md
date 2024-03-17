@@ -5,11 +5,19 @@ Sur la touche VK_OEM_7 :
 - le symbole 'SUPERSCRIPT TWO' (U+00B2) qui était en position de base est transféré en position ag.
 - le symbole 'GRAVE ACCENT' (U+0060) prend la position de base
 
-V1.6
 
-* Ajout des deux caractères pour la correction de QCM à partir de la touche morte AG+F
-  * 006C	2714	// l -> ✔
-  * 006D	2718	// m -> ✘
+V1.6
+ADD 5 - sh+ag - 2011 - Non-Breaking Hyphen
+MOV 6 - sh+ag - 2013 - En Dash
+MOV 7 - sh+ag - 2014 - Em Dash
+
+Ajout avec la avec la touche morte AG+F
+- 0075	2022	// u -> •
+- 0069	2023	// i -> ‣
+- 0068	26A0	// h -> ⚠
+- 006A	26D0	// j -> ⛐
+- 006C	2714	// l -> ✔
+- 006D	2718	// m -> ✘
 
 V1.5
 
