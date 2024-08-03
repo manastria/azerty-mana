@@ -5,6 +5,8 @@ Sur la touche VK_OEM_7 :
 - le symbole 'SUPERSCRIPT TWO' (U+00B2) qui était en position de base est transféré en position ag.
 - le symbole 'GRAVE ACCENT' (U+0060) prend la position de base
 
+V1.7
+Add exposant and indice from Bépo layout.
 
 V1.6
 ADD 5 - sh+ag - 2011 - Non-Breaking Hyphen
